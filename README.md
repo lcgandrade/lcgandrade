@@ -3,7 +3,6 @@
 - 🔭 I currently work with data mining, python, R and storytelling
 - 🌱 Studying Computer Science, Data Science, Data Analytics and RPA
 - 👯 I collaborate with the dissemination of data driven in the current company
-- 📫 Contact me by email: lucas.andradeg@outlook.com
 - 😄 Pronouns: He/His
 
 <div align="center">
